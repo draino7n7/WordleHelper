@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project specific
+five_letter_words.txt
+valid_pairs.txt
+valid_triples.txt
+valid_quads.txt
+valid_quintuples.txt
+five_word_sets.txt
